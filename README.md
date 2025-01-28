@@ -10,10 +10,10 @@ Welcome to the UI-Designs repository! This project showcases foundational UI des
 - "Projects" section
 - Contact form
 - Blog page
-Objective: Transition from low-fi wireframes to high-fi interactive prototypes while focusing on structure, aesthetics, and user flow.
+#### Objective: Transition from low-fi wireframes to high-fi interactive prototypes while focusing on structure, aesthetics, and user flow.
 
 ## 📝 To-Do List Application Design. Click [here](https://www.figma.com/proto/UTbkWfUFjuoMXxBBhIclNz/To-Do-List-Application?node-id=8-37&p=f&t=mttyOZoHBHfDnTQa-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) to access view To-Do-List prototype.
 ### Features:
 - Add, remove, and manage tasks.
 - Clean, minimalist interface.
-Objective: Create a functional and scalable UI with a strong emphasis on usability and interactivity.
+#### Objective: Create a functional and scalable UI with a strong emphasis on usability and interactivity.
