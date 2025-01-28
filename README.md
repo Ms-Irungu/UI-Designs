@@ -1,8 +1,8 @@
 # 🌟 UI-Designs Repository
 Welcome to the UI-Designs repository! This project showcases foundational UI design principles, wireframing, prototyping, and user interface creation through two practical design tasks:
 
-🎨 Personal Portfolio Design
-📝 To-Do List Application Design
+- 🎨 Personal Portfolio Design
+- 📝 To-Do List Application Design
 ## 🎨 Personal Portfolio Design
 ### Features:
 "About Me" section
